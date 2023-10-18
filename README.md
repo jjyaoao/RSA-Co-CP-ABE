@@ -104,15 +104,15 @@ client finished.
 [Apache License 2.0]: https://opensource.org/license/apache-2-0/ "Apache License, Version 2.0 | Open Source Initiative"
 
 ### Quote
-This work has been compiled into [paper](XXXX) and published in XXXX. You are welcome to cite this work in the paper.
+This work has been compiled into [paper](https://ieeexplore.ieee.org/abstract/document/10263473/) and published in IEEE. You are welcome to cite this work in the paper.
 ```bibtex
-@article{RSA-Co-CP-ABE,
-  author    = {Sizhou Chen and
-               Xiao Xie and
-               Xinchen Wang
-               },
-  title     = {A Novel Hybrid Encryption Scheme using RSA-Co-CP-ABE for Ciphertext Transmission in Cloud Environment},
-
+@inproceedings{RSA-Co-CP-ABE,
+  title={A Novel Hybrid Encryption Scheme Using RSA-Co-CP-ABE for Ciphertext Transmission in Cloud Environment},
+  author={Chen, Sizhou and Xie, Xiao and Wang, Xinchen},
+  booktitle={2023 IEEE International Conference on Sensors, Electronics and Computer Engineering (ICSECE)},
+  pages={1690--1697},
+  year={2023},
+  organization={IEEE}
 }
 ```
 
